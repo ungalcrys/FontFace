@@ -1,0 +1,27 @@
+FontFace is a font viewer application distributed by SC Minilectro SRL.
+
+By accepting this agreement or by installing and/or using FontFace, you agree to the following FontFace-specific terms, notwithstanding anything to the contrary in this agreement.
+
+1.License.
+Subject to your compliance with these terms and conditions, SC Minilectro SRL grants you a royalty-free, non-exclusive, non-transferable license to use FontFace, solely for your personal, non-commercial purposes. SC Minilectro SRL reserves all rights in FontFace not expressly granted to you here.
+
+2.Restrictions.
+The source code, design, and structure of FontFace are trade secrets. You will not disassemble, decompile, or reverse engineer it, in whole or in part, except to the extent expressly permitted by law. You will not use FontFace for illegal purposes. You will comply with all export laws. FontFace is licensed, not sold.
+   
+3.The FontFace Technologies.
+FontFace downloads only those font files that are both authorized by you for download (specifically or by category or subscription), except that FontFace automatically updates itself. At any time, you may uninstall or delete FontFace. In addition, you can control FontFace in multiple ways through its user interface without affecting any font files.
+
+4.Disclaimer of Warranty.
+SC Minilectro SRL disclaims any responsibility for harm resulting from FontFace. SC Minilectro SRL approval does not guarantee that software or content from an approved partner will function, sound, or appear as offered or hoped, or be complete, accurate, or free from bugs, errors, viruses, or other harmful content. SC Minilectro SRL expressly disclaims all warranties and conditions, express or implied, including any implied warranties and conditions of merchantability, fitness for a particular purpose, and noninfringement, and any warranties and conditions arising out of course of dealing or usage of trade regarding the FontFace software. No advice or information, whether oral or written, obtained from SC Minilectro SRL or elsewhere will create any warranty or condition not expressly stated in this agreement. Some jurisdictions do not allow certain limitations on implied warranties, so the above limitation may not apply to you to its full extent.
+
+5.Limitation of Liability.
+SC Minilectro SRL's total liability to you from all causes of action and under all theories of liability will be limited to $50.00. In no event and under no theory of liability will SC Minilectro SRL be liable to you for any special, incidental, exemplary, or consequential damages arising out of or in connection with this agreement or the software whether or not SC Minilectro SRL has been advised of the possibility of such damages. The foregoing limitations will survive even if any limited remedy specified is found to have failed of its essential purpose. Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you to its full extent.
+
+6.Romanian Government Users.
+FontFace is “commercial computer software” any use of which by or on behalf of the Romanian Government is subject to the restrictions herein. Manufactured by SC Minilectro SRL
+
+7.General.
+These SC Minilectro SRL terms will be governed by and construed in accordance with the laws of Romania, without regard to conflicts of law rules. The United Nations Convention on Contracts for the International Sale of Goods will not apply. The failure by either party to enforce any provision will not constitute a waiver. Any waiver, modification, or amendment of the SC Minilectro SRL terms will be effective only if signed. If any provision is held to be unenforceable, it will be enforced to the maximum extent possible and will not diminish other provisions. SC Minilectro SRL may make changes to these terms from time to time. When these changes are made, SC Minilectro SRL will make a new copy of the terms available at www.ungalcrys.com/fontface/EULA. You understand and agree that if you use FontFace after the date on which the terms have changed, SC Minilectro SRL will treat your use as acceptance of the updated terms. You agree that SC Minilectro SRL may provide you with notices, including those regarding changes to the terms, by postings on www.ungalcrys.com/fontface/EULA. This is SC Minilectro SRL's complete and exclusive understanding with you regarding your use of FontFace as an end user.
+
+8.Contact.
+If you have any questions, please mail us at suport@minilectro.ro.
